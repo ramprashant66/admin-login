@@ -1,33 +1,3 @@
-// import {
-//     Sidebar,
-//     SidebarContent,
-//     SidebarFooter,
-//     SidebarGroup,
-//     SidebarHeader,
-//   } from "@/components/ui/sidebar"
-  
-//   export function AppSidebar() {
-//     return (
-//       <Sidebar>
-//         <SidebarHeader />
-//         <SidebarContent>
-//           <SidebarGroup />
-//           <SidebarGroup />
-//         </SidebarContent>
-//         <SidebarFooter />
-//       </Sidebar>
-//     )
-//   }
-
-//   import { Sidebar, SidebarContent } from "@/components/ui/sidebar"
-
-// export function AppSidebar() {
-//   return (
-//     <Sidebar>
-//       <SidebarContent />
-//     </Sidebar>
-//   )
-// }
 
 import { Calendar, Home, Inbox, Search, Settings } from "lucide-react"
 
